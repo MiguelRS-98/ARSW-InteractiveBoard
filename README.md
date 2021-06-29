@@ -56,4 +56,4 @@ Este programa de JavaScript tiene funciones:
 - ___Index:___<br>
 16 lineasLOC.<br>
 ### Tiempo total
-___145/23 = 6.30 lineasLOC/hora.___
+___229/23 = 9.96 lineasLOC/hora.___
