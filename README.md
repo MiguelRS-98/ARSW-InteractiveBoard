@@ -6,7 +6,7 @@
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://interactive-board2021.herokuapp.com/index.html)
 
 ## Paquete Datagram
-![Diagrama Clases](Images/DiagramClass.JPG)<br>
+![Diagrama Clases](Images/DiagramClass.jpg)<br>
 #### Descripcion WhiteBoardAppController
 Esta clase principal se encarga de la activacion del letrero para que pueda ser ejecutado en el puerto indicado con Spring.
 #### Descripcion PointsCahce
@@ -26,17 +26,17 @@ Este programa de JavaScript tiene funciones:
 - ___newDrawPoints:___ Realiza el dibujo de los puntos de otros usuarios visitantes en el tablero local.
 
 ## Ejecucion
-![Test](Images/Test0.JPG)<br>
+![Test](Images/Test0.jpg)<br>
 > - Se ingresar, en este caso se tendran dos ventanas para mostrar el caso de dos usuarios. 
-![Test](Images/Test2.JPG)<br>
+![Test](Images/Test2.jpg)<br>
 > - Se verifica que el ___usuario#1___ pueda dibujar y se vea en el tablero del ___usuario#2.___
-![Test](Images/Test3.JPG)<br>
+![Test](Images/Test3.jpg)<br>
 > - Se verifica que el ___usuario#2___ pueda dibujar y se vea en el tablero del ___usuario#1.___
-![Test](Images/Test4.JPG)<br>
+![Test](Images/Test4.jpg)<br>
 > - Se verifica el funcionamiento del boton de ___Limpiar___ para la limpieza de las pantallas.
 
 ## Test
-![Test App](Images/Test0.PNG)<br>
+![Test App](Images/Test5.jpg)<br>
 > - 2 pruebas test y la ejecución de antes y despues de la aplicación.
 
 ## JavaDoc:
