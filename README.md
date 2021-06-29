@@ -40,7 +40,7 @@ Este programa de JavaScript tiene funciones:
 > - 2 pruebas test y la ejecución de antes y despues de la aplicación.
 
 ## JavaDoc:
-[JavaDoc - HerokuApp](JavaDoc/index.html)
+[JavaDoc - Tablero Multiusuario(JavaDocs/index.html)
 
 ## Tiempo de Lineas LOC
 - ___WhiteBoardAppController:___<br>
