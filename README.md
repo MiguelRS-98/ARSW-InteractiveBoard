@@ -28,15 +28,15 @@ Este programa de JavaScript tiene funciones:
 ## Ejecucion
 ![Test](Image/Test0.jpg)<br>
 > - Se ingresar, en este caso se tendran dos ventanas para mostrar el caso de dos usuarios. 
-![Test](Image/Test2.jpg)<br>
+![Test](Image/Test1.jpg)<br>
 > - Se verifica que el ___usuario#1___ pueda dibujar y se vea en el tablero del ___usuario#2.___
-![Test](Image/Test3.jpg)<br>
+![Test](Image/Test2.jpg)<br>
 > - Se verifica que el ___usuario#2___ pueda dibujar y se vea en el tablero del ___usuario#1.___
-![Test](Image/Test4.jpg)<br>
+![Test](Image/Test3.jpg)<br>
 > - Se verifica el funcionamiento del boton de ___Limpiar___ para la limpieza de las pantallas.
 
 ## Test
-![Test App](Image/Test5.jpg)<br>
+![Test App](Image/Test4.jpg)<br>
 > - 2 pruebas test y la ejecución de antes y despues de la aplicación.
 
 ## JavaDoc:
